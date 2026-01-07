@@ -1,0 +1,6 @@
+{
+  "icon": "minecraft:item/empty_armor_slot_helmet",
+  "order": 10,
+  "render_toggle": false,
+  "size": 1
+}

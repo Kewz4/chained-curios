@@ -1,0 +1,29 @@
+{
+  "groups": [
+    {
+      "identifier": "underlayer_group",
+      "icon": "minecraft:item/chainmail_chestplate",
+      "order": 800,
+      "rows": 4,
+      "columns": 1
+    }
+  ],
+  "slots": [
+    {
+      "identifier": "underlayer_head",
+      "group": "underlayer_group"
+    },
+    {
+      "identifier": "underlayer_chest",
+      "group": "underlayer_group"
+    },
+    {
+      "identifier": "underlayer_legs",
+      "group": "underlayer_group"
+    },
+    {
+      "identifier": "underlayer_feet",
+      "group": "underlayer_group"
+    }
+  ]
+}

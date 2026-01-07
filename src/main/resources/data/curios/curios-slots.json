@@ -1,0 +1,16 @@
+{
+  "slots": [
+    {
+      "identifier": "underlayer_head"
+    },
+    {
+      "identifier": "underlayer_chest"
+    },
+    {
+      "identifier": "underlayer_legs"
+    },
+    {
+      "identifier": "underlayer_feet"
+    }
+  ]
+}

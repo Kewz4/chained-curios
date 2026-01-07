@@ -1,0 +1,6 @@
+{
+  "icon": "minecraft:item/empty_armor_slot_boots",
+  "order": 40,
+  "render_toggle": false,
+  "size": 1
+}

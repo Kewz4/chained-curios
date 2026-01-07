@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.noem1s.chainedcurios.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "chainedcurios.refmap.json",
+  "mixins": [
+    "ArmorItemMixin",
+    "CuriosContainerMixin",
+    "InventoryMenuMixin"
+  ],
+  "client": [],
+  "server": []
+}

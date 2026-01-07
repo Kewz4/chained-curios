@@ -1,0 +1,28 @@
+{
+  "slots": [
+    {
+      "name": "underlayer_head",
+      "icon": "minecraft:item/empty_armor_slot_helmet",
+      "size": 1,
+      "order": 80
+    },
+    {
+      "name": "underlayer_chest",
+      "icon": "minecraft:item/empty_armor_slot_chestplate",
+      "size": 1,
+      "order": 81
+    },
+    {
+      "name": "underlayer_legs",
+      "icon": "minecraft:item/empty_armor_slot_leggings",
+      "size": 1,
+      "order": 82
+    },
+    {
+      "name": "underlayer_feet",
+      "icon": "minecraft:item/empty_armor_slot_boots",
+      "size": 1,
+      "order": 83
+    }
+  ]
+}
